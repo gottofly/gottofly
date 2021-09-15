@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...New setup
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...lennyg.home@gmail.co,
+- 📫 How to reach me ...lennyg.home@gmail.com,
 
 <!---
 gottofly/gottofly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
